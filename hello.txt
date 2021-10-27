@@ -6,3 +6,5 @@ goodbye!
 hi git~
 hi flink
 bye~
+hello hi
+goodbye bye
