@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Hello Git");
         System.out.println("Hello Flink");
         System.out.println("hot-fix first");
+        System.out.println("master first");
     }
 }
